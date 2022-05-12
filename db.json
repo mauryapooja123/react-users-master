@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "pooja",
+      "username": "pooja@gmail.com",
+      "email": "anshika@123gmail.com",
+      "phone": "895675694857",
+      "website": "438523543",
+      "id": 6
+    },
+    {
+      "name": "kiran",
+      "username": "kiran",
+      "email": "anshika@123gmail.com",
+      "phone": "3333333333",
+      "website": "2819427893",
+      "id": 7
+    },
+    {
+      "name": "kiran",
+      "username": "pooja",
+      "email": "anshika@123gmail.com",
+      "phone": "wqeqw",
+      "website": "",
+      "id": 8
+    },
+    {
+      "name": "rahul",
+      "username": "rahul",
+      "email": "anshika@123gmail.com",
+      "phone": "2345346",
+      "website": "",
+      "id": 9
+    }
+  ]
+}
